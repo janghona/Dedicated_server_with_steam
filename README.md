@@ -11,7 +11,7 @@
 
 <img src="./sample.PNG" width="700" height="400">
 
-언리얼 자체 Dedicated server을 사용하여 스팀 플랫폼의 커뮤니티 기능을 연동 
+언리얼 자체 Dedicated server을 사용하여 스팀 플랫폼의 커뮤니티 기능을 연동  
 
 동영상 시연 영상: https://www.youtube.com/watch?v=fx6VvYN0qYI&ab_channel=JanghoNa 
 
