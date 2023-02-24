@@ -9,7 +9,7 @@
 
 ## 프로젝트 설명 
 
-<img src="./sample.PNG" width="700" height="400">
+<img src="./sample.png" width="700" height="400">
 
 언리얼 자체 Dedicated server을 사용하여 스팀 플랫폼의 커뮤니티 기능을 연동  
 
