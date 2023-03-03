@@ -16,7 +16,7 @@
 동영상 시연 영상: https://www.youtube.com/watch?v=fx6VvYN0qYI&ab_channel=JanghoNa 
 
 ## 구현기능
-- 서버 연동
+- Unreal Dedicated 서버 연동
 - 스팀 플랫폼 연동
 - 실제 스팀 계정사용 가능
 - 스팀 커뮤니티 서비스 창 사용 가능
